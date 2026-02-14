@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Admincustomermanagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminCustomerReviews.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDashbord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManegeorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminRegistation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerDashbord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerProfilemanagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerRegistation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="customerReviewPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Finalcheckout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Makeuorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ORDER_HISTORY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SALES_REPORT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock_Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrackYourorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

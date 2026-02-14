@@ -1,0 +1,33 @@
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\bin\Debug\GreenLife Organic Store.exe.config
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\bin\Debug\GreenLife Organic Store.exe
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\bin\Debug\GreenLife Organic Store.pdb
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife Organic Store.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.AdminRegistation.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.CustomerRegistation.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.Home.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.LOGIN.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.Properties.Resources.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife Organic Store.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife Organic Store.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife Organic Store.exe
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife Organic Store.pdb
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.AdminDashbord.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.CustomerDashbord.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.Product_Management.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.Admincustomermanagement.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.AdminManegeorder.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.cart.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.Makeuorder.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.Finalcheckout.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.TrackYourorder.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.CustomerProfilemanagement.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.customerReviewPage.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.Report.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.SALES_REPORT.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.Stock_Reports.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.ORDER_HISTORY.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.OrderDetailsForm.resources
+C:\Users\User\source\repos\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife_Organic_Store.Session.resources
+C:\Users\User\Desktop\LMU\AD\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife Organic Store.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LMU\AD\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife Organic Store.exe
+C:\Users\User\Desktop\LMU\AD\GreenLife Organic Store\GreenLife Organic Store\obj\Debug\GreenLife Organic Store.pdb
